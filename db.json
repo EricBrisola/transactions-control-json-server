@@ -1,9 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "transactions": [
+    {
+      "id": "29813",
+      "value": "250",
+      "type": "deposit"
+    },
+    {
+      "id": "31770",
+      "value": "2500",
+      "type": "deposit"
+    },
+    {
+      "id": "3758",
+      "value": "450",
+      "type": "remove"
+    },
+    {
+      "id": "1019",
+      "value": "250",
+      "type": "deposit"
+    },
+    {
+      "id": "1208",
+      "value": "250",
+      "type": "remove"
+    }
+  ]
 }
